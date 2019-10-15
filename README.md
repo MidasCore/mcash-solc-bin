@@ -1,0 +1,1 @@
+# mcash-solc-bin
