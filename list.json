@@ -8,6 +8,13 @@
       "keccak256": "0xb4c21bbeea13d9ea73e575b6fd15248c64d497df97ebc81735db0e57321bad7d"
     },
     {
+      "path": "soljson-v0.4.26+commit.9d91900f.js",
+      "version": "0.4.26",
+      "build": "commit.9d91900f",
+      "longVersion": "0.4.26+commit.9d91900f",
+      "keccak256": "0xeab006744e628088ea8d1a1ba52c6e2d8cb30ac6d077ca1aceda0fd472cf6bdc"
+    },
+    {
       "path": "soljson-v0.5.4+commit.a6d03313.js",
       "version": "0.5.4",
       "build": "commit.a6d03313",
@@ -17,6 +24,7 @@
   ],
   "releases": {
     "0.4.25": "soljson-v0.4.25+commit.c94ca0ef.js",
+    "0.4.26": "soljson-v0.4.26+commit.9d91900f.js",
     "0.5.4": "soljson-v0.5.4+commit.a6d03313.js"
   },
   "latestRelease": "0.5.4"
